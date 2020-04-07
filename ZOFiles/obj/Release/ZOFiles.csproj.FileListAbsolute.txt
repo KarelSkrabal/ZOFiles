@@ -1,0 +1,10 @@
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\bin\Release\ZOFiles.exe.config
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\bin\Release\ZOFiles.exe
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\bin\Release\ZOFiles.pdb
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\bin\Release\DataSource.dll
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\bin\Release\DataSource.pdb
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\obj\Release\ZOFiles.csprojAssemblyReference.cache
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\obj\Release\ZOFiles.csproj.CoreCompileInputs.cache
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\obj\Release\ZOFiles.csproj.CopyComplete
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\obj\Release\ZOFiles.exe
+C:\Users\k.skrabal\source\repos\ZOFiles\ZOFiles\obj\Release\ZOFiles.pdb

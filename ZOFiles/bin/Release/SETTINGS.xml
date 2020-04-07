@@ -1,0 +1,10 @@
+<SETTINGS>
+	<SETTINGROW>
+		<ZODataPath>D:\Nexnet\ZákaznickýPortál\DatapDvornik150318\POSTPROCESORY</ZODataPath>
+		<OutputPath>D:\Ahoj\VysledekPrevodu\</OutputPath>
+		<LogFilePath>D:\Ahoj\Log\log.txt</LogFilePath>
+		<FileRepositoryPath>D:\Ahoj\FileRepository\</FileRepositoryPath>
+    <DataFileName>TEST1.xml</DataFileName>
+	</SETTINGROW>
+</SETTINGS>
+

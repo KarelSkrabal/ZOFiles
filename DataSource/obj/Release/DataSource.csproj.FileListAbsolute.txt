@@ -1,0 +1,6 @@
+C:\Users\k.skrabal\source\repos\ZOFiles\DataSource\bin\Release\DataSource.dll
+C:\Users\k.skrabal\source\repos\ZOFiles\DataSource\bin\Release\DataSource.pdb
+C:\Users\k.skrabal\source\repos\ZOFiles\DataSource\obj\Release\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\k.skrabal\source\repos\ZOFiles\DataSource\obj\Release\DataSource.dll
+C:\Users\k.skrabal\source\repos\ZOFiles\DataSource\obj\Release\DataSource.pdb
+C:\Users\k.skrabal\source\repos\ZOFiles\DataSource\obj\Release\DataSource.csprojAssemblyReference.cache

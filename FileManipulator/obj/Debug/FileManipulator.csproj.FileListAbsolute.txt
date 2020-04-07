@@ -1,0 +1,12 @@
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\bin\Debug\FileManipulator.dll
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\bin\Debug\FileManipulator.pdb
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\bin\Debug\DataSource.dll
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\bin\Debug\ZOFiles.exe
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\bin\Debug\DataSource.pdb
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\bin\Debug\ZOFiles.pdb
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\bin\Debug\ZOFiles.exe.config
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\obj\Debug\FileManipulator.csproj.CoreCompileInputs.cache
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\obj\Debug\FileManipulator.dll
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\obj\Debug\FileManipulator.pdb
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\obj\Debug\FileManipulator.csprojAssemblyReference.cache
+C:\Users\k.skrabal\source\repos\ZOFiles\FileManipulator\obj\Debug\FileManipulator.csproj.CopyComplete
