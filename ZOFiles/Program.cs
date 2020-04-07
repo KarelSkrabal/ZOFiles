@@ -25,7 +25,6 @@ namespace ZOFiles
                 OutputPath = setting.settingrows[0].OutputPath,
                 FileRepository = setting.settingrows[0].FileRepositoryPath
             };
-
             fileManipulator.Manipulate();
         }
     }
