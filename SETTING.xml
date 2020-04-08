@@ -1,0 +1,10 @@
+<SETTINGS>
+	<SETTINGROW>
+		<ZODataPath>D:\Nexnet\ZákaznickýPortál\DatapDvornik150318\POSTPROCESORY</ZODataPath>
+		<OutputPath>D:\ZOFilesResult\VysledekPrevodu\</OutputPath>
+		<LogFilePath>D:\ZOFilesLogs\Log\log.txt</LogFilePath>
+		<FileRepositoryPath>D:\ZOFiles\FileRepository\</FileRepositoryPath>
+    		<DataFileName>DataSource.xml</DataFileName>
+	</SETTINGROW>
+</SETTINGS>
+
